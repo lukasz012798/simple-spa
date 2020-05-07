@@ -1,0 +1,50 @@
+.contact textarea {
+  display: block;
+  font-size: 16px;
+  width: 100%;
+  min-width: 200px;
+  height: 20vh;
+  min-height: 100px;
+  margin: 20px auto;
+  resize: none;
+  /* outline: none; */
+  padding: 5px;
+  font-family: Montserrat;
+  text-transform: uppercase;
+  border: 2px solid #333;
+  outline-color: black;
+  outline-width: 5px;
+}
+
+.contact button {
+  display: block;
+  background-color: white;
+  padding: 5px 10px;
+  font-size: 30px;
+  color: #333;
+  text-transform: uppercase;
+  font-family: Montserrat;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 100%;
+  transform: translateX(-100%);
+  transition: 0.2s;
+}
+
+.contact button:hover {
+  color: whitesmoke;
+  background-color: #333;
+}
+
+.contact p {
+  /* display: inline-block; */
+  /* margin-left: 90%; */
+  /* min-width: 10%; */
+  /* background-color: #444; */
+  text-align: center;
+  color: #333;
+  font-weight: bold;
+  /* transition: 5s; */
+  /* transform: translateX(-100%); */
+}
