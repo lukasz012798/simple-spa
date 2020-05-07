@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-spa/static/css/main.fcac3665.chunk.css",
+    "main.js": "/simple-spa/static/js/main.beeae09a.chunk.js",
+    "main.js.map": "/simple-spa/static/js/main.beeae09a.chunk.js.map",
+    "runtime-main.js": "/simple-spa/static/js/runtime-main.19f558d7.js",
+    "runtime-main.js.map": "/simple-spa/static/js/runtime-main.19f558d7.js.map",
+    "static/js/2.be325a54.chunk.js": "/simple-spa/static/js/2.be325a54.chunk.js",
+    "static/js/2.be325a54.chunk.js.map": "/simple-spa/static/js/2.be325a54.chunk.js.map",
+    "index.html": "/simple-spa/index.html",
+    "precache-manifest.7c620097dd79d933290c046bd7fe8c94.js": "/simple-spa/precache-manifest.7c620097dd79d933290c046bd7fe8c94.js",
+    "service-worker.js": "/simple-spa/service-worker.js",
+    "static/css/main.fcac3665.chunk.css.map": "/simple-spa/static/css/main.fcac3665.chunk.css.map",
+    "static/js/2.be325a54.chunk.js.LICENSE.txt": "/simple-spa/static/js/2.be325a54.chunk.js.LICENSE.txt",
+    "static/media/road-1209369_1280.jpg": "/simple-spa/static/media/road-1209369_1280.f1eb474b.jpg",
+    "static/media/taxi-cab-381233_1280.jpg": "/simple-spa/static/media/taxi-cab-381233_1280.879a50bb.jpg",
+    "static/media/traffic-3612474_1280.jpg": "/simple-spa/static/media/traffic-3612474_1280.e6935393.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19f558d7.js",
+    "static/js/2.be325a54.chunk.js",
+    "static/css/main.fcac3665.chunk.css",
+    "static/js/main.beeae09a.chunk.js"
+  ]
+}
